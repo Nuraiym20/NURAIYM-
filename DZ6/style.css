@@ -1,0 +1,29 @@
+body{
+    background-color: #BC9D71;
+}
+.wrapper{
+    text-align: center;
+}
+h1{
+    color: #008200;
+}
+h2{
+    color: white;
+}
+
+
+.btn{
+    color: white;
+    background-color: #0B2C54;
+    border-radius: 10px;
+    margin: 10px;
+}
+.btn{
+    color: white;
+    background-color: #0B2C54;
+}
+.wrapper_two{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
